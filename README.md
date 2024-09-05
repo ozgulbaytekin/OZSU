@@ -18,11 +18,17 @@ Access the application via a web browser to interact with the different modules.
 
 ### USAGE
 Home Page: Access general information and navigation to different modules.
+
 Employee: Manage employee records, including forms for adding, editing, and viewing.
+
 Stock: Manage stock records, with forms for inputting and updating stock information.
+
 Sales: Handle sales records, with forms for sales entries and modifications.
+
 Production: Manage production-related records.
+
 Reports: Generate and view various reports based on different data sets.
+
 Login/Register: Secure access to the system with user authentication and registration.
 ### Docker Usage:
 1-) Build the Docker Image:
