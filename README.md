@@ -16,7 +16,7 @@ Ensure that the database connection settings in DatabaseConnector.php are correc
 You can use PhP storm editor or VS code to run the project.
 Access the application via a web browser to interact with the different modules.
 
-###USAGE
+### USAGE
 Home Page: Access general information and navigation to different modules.
 Employee: Manage employee records, including forms for adding, editing, and viewing.
 Stock: Manage stock records, with forms for inputting and updating stock information.
