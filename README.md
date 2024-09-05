@@ -24,6 +24,23 @@ Sales: Handle sales records, with forms for sales entries and modifications.
 Production: Manage production-related records.
 Reports: Generate and view various reports based on different data sets.
 Login/Register: Secure access to the system with user authentication and registration.
+### Docker Usage:
+1-) Build the Docker Image:
+```bash
+docker build -t water-production-system .
+```
+2-) Run the Docker Containers:
+```bash
+docker-compose up
+```
+3-) Access Application:
+Open your web browser and go to http://localhost:8080 to access the application.
+
+4-) Stopping the Containers:
+```bash
+docker-compose down
+```
+
 
 ### CONTACT
 For any questions or feedback, please contact ozgulbaytekin@outlook.com
